@@ -72,7 +72,7 @@ inputs = {
 ```
 @misc{ChatCTG,
   author = {Oubo Gong},
-  title = {Sentiment analysis with chatGPT},
+  title = {Controlled Text Genration with chatGPT},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
