@@ -68,3 +68,14 @@ inputs = {
 '白色亚克力罗马高跟鞋伴随圆球吊饰耳饰单带，个性十足，抢眼。'
 ```
 
+# 引用
+```
+@misc{ChatCTG,
+  author = {Oubo Gong},
+  title = {Sentiment analysis with chatGPT},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  url="https://github.com/taishan1994/ChatCTG",
+}
+```
